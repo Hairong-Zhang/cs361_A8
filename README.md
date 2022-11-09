@@ -44,5 +44,7 @@ app.get('/', (req, res) => {
 ```
 
 Sequence Diagram!
-[WechatIMG14](https://user-images.githubusercontent.com/76983601/200713442-9eb77a8c-3b00-4467-a4ec-7bdb85f5e237.jpeg)
+
+[sequence diagram](https://user-images.githubusercontent.com/76983601/200714026-db2dfb65-409d-4abc-b147-7a1fd209e1c5.png)
+
 
