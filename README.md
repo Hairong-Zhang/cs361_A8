@@ -43,8 +43,8 @@ app.get('/', (req, res) => {
 });
 ```
 
-Sequence Diagram!
+Sequence Diagram:
 
-[sequence diagram](https://user-images.githubusercontent.com/76983601/200714026-db2dfb65-409d-4abc-b147-7a1fd209e1c5.png)
+<img width="882" alt="Screen Shot 2022-11-08 at 8 27 28 PM" src="https://user-images.githubusercontent.com/76983601/200714215-a59863c1-ea17-4a8e-9db5-fd38a2ee613f.png">
 
 
